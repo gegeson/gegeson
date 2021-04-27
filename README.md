@@ -6,7 +6,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gegeson&theme=solarized)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gegeson&theme=solarized)
 
 # Skill
-- python
+- Python
 - Ruby on Rails
 - Django
 - Docker

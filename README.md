@@ -11,14 +11,6 @@
 - Django
 - Docker
 
-Week: 07 August, 2021 - 13 August, 2021
-
-TypeScript   19 hrs 57 mins  ████████████████████░░░░░   79.82 % 
-Docker       1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Other        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Vue.js       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-
 <!--
 **gegeson/gegeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,9 @@
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics
 
 <a href="https://twitter.com/gegesonyushin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gegesonyushin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yuki-shigemasa-99b26a1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuki-shigemasa-99b26a1b6" height="30" width="40" /></a>
 <a href="https://fb.com/100026485067794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100026485067794" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuki-shigemasa-99b26a1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuki-shigemasa-99b26a1b6" height="30" width="40" /></a>
+
 
 ## ⚡ Status
 

@@ -3,6 +3,8 @@
 
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics
 
+<a href="https://twitter.com/gegesonyushin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gegesonyushin" height="30" width="40" /></a>
+
 
 ## ⚡ Status
 

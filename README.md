@@ -1,5 +1,4 @@
 # I’m Yuki Shigemasa
----
 🤔 A student at Kyushu univ.
 
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics

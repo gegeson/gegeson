@@ -4,7 +4,7 @@
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics
 
 
-## Status
+## ⚡ Status
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gegeson&theme=solarized)
 

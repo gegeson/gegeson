@@ -1,4 +1,8 @@
-# My Profile
+# I’m Yuki Shigemasa
+---
+🤔 A student at Kyushu univ.
+
+💬 I'm currently learning Algorithm, Machine Learinng, Statistics
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gegeson&theme=solarized)
@@ -11,7 +15,6 @@
 - Django
 - Docker
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=gegeson&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gegeson/)
 
 <!--
 **gegeson/gegeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

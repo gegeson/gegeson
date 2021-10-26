@@ -4,7 +4,7 @@
 
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics
 
-About me
+👤About me
 →https://gegeson.github.io/Portfolio/
 
 

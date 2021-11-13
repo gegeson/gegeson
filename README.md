@@ -2,7 +2,7 @@
 
 🤔 A student at Kyushu univ.
 
-💬 I'm currently learning Algorithm, Machine Learinng, Statistics
+💬 I'm currently learning Algorithm, Machine Learinng, Statistics, Go
 
 👤About me
 →https://gegeson.github.io/Portfolio/

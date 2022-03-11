@@ -1,8 +1,8 @@
 # I’m Yuki Shigemasa
 
-🤔 Backend engineer at Cyberagent@AWA
+🤔 Backend engineer at Cyberagent.
 
-💬 I'm currently learning Algorithm, Machine Learinng, Statistics, Go
+💬 I'm currently Go, algorithm.
 
 👤About me
 →https://gegeson.github.io/Portfolio/

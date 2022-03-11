@@ -1,6 +1,6 @@
 # I’m Yuki Shigemasa
 
-🤔 A student at Kyushu univ.
+🤔 Backend engineer at Cyberagent@AWA
 
 💬 I'm currently learning Algorithm, Machine Learinng, Statistics, Go
 

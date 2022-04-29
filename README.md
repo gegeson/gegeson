@@ -2,7 +2,7 @@
 
 🤔 Backend engineer at Cyberagent.
 
-💬 I'm currently Go, algorithm.
+💬 Recently interested in infrastructure(AWS, Kubernetes...).
 
 👤About me
 →https://gegeson.github.io/Portfolio/
@@ -21,13 +21,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gegeson&theme=solarized)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gegeson&theme=solarized)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gegeson&theme=solarized)
-
-## Skills
-- PHP
-- Laravel
-- Javascript
-- Vue.js
-- Go
-- Python
-- Django
-- Flask

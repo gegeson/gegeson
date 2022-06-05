@@ -2,7 +2,7 @@
 
 🤔 Backend engineer at CyberAgent.
 
-💬 Recently interested in infrastructure(AWS, Kubernetes...).
+💬 Recently interested in infrastructure(GCP, Kubernetes...).
 
 👤About me
 →https://gegeson.github.io/Portfolio/

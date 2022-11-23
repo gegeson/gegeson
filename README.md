@@ -1,6 +1,6 @@
 # I’m Yuki Shigemasa
 
-🤔 Backend engineer at CyberAgent.
+🤔 Backend engineer
 
 💬 Recently interested in infrastructure(GCP, Kubernetes...).
 

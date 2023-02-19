@@ -1,11 +1,16 @@
 # I’m Yuki Shigemasa
 
-🤔 Backend engineer
+🤔 Backend Engineer
 
 💬 Recently interested in infrastructure(GCP, Kubernetes...).
 
-👤About me
+👤 About Me
 →https://gegeson.github.io/Portfolio/
+
+🏢 Job History
+
+- 2022/03 - Current Backend Engineer @ CyberAgent, Inc.
+- 2021/03 - 2023/01 Backend Engineer @ Oh my teeth
 
 
 <a href="https://twitter.com/gegesonyushin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gegesonyushin" height="30" width="40" /></a>

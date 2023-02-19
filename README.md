@@ -1,11 +1,16 @@
 # I’m Yuki Shigemasa
 
+
 🤔 Backend Engineer
+
 
 💬 Recently interested in infrastructure(GCP, Kubernetes...).
 
+
 👤 About Me
+
 →https://gegeson.github.io/Portfolio/
+
 
 🏢 Job History
 

@@ -7,11 +7,6 @@
 💬 Recently interested in infrastructure(GCP, Kubernetes...).
 
 
-👤 About Me
-
-→https://gegeson.github.io/Portfolio/
-
-
 🏢 Job History
 
 - 2022/03 - Current Backend Engineer @ CyberAgent, Inc.

@@ -4,7 +4,11 @@
 🤔 Backend Engineer
 
 
-💬 Recently interested in infrastructure(GCP, Kubernetes...).
+💬 Recent Interests
+
+- eBPF(cilium)
+- Protocol（QUIC）
+- Software architecture
 
 
 🏢 Job History

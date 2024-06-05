@@ -21,4 +21,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gegeson&theme=solarized)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gegeson&theme=solarized)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gegeson&theme=solarized)

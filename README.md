@@ -6,9 +6,9 @@
 
 💬 Recent Interests
 
-- eBPF(cilium)
-- Network
-- Software architecture
+- eBPF
+- Fintech
+- UI/UX Design
 
 
 🏢 Job History
